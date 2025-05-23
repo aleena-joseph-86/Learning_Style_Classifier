@@ -4,6 +4,7 @@ This application helps classify students into different learning styles (Visual,
 
 ## ▶️ Demo Video
 *Click the image below to watch the demo video on YouTube.*
+
 [![Watch the video](assets/HomePage.png)](https://www.youtube.com/watch?v=TYFO1UJm-Vo)
 
 ## Features
