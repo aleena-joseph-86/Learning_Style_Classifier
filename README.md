@@ -2,7 +2,8 @@
 
 This application helps classify students into different learning styles (Visual, Auditory, or Kinesthetic) based on their learning preferences and provides personalized learning recommendations.
 
-## Demo Video
+## ▶️ Demo Video
+*Click the image below to watch the demo video on YouTube.*
 [![Watch the video](assets/HomePage.png)](https://www.youtube.com/watch?v=TYFO1UJm-Vo)
 
 ## Features
