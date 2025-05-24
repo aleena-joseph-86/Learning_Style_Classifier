@@ -60,16 +60,3 @@ Based on your classification, the application provides personalized learning rec
 8. Preference for written instructions
 9. Enjoyment of presentations
 10. Enjoyment of experiments
-
-## Contributing
-
-Feel free to contribute to this project by:
-
-1. Forking the repository
-2. Creating a new branch
-3. Making your changes
-4. Submitting a pull request
-
-## License
-
-This project is licensed under the MIT License.
